@@ -1,23 +1,23 @@
-package com.bvan.oop.lesssons7_8.generics.box.bad;
+package com.bvan.oop.lessons7_8.generics.box.bad;
 
 /**
  * @author bvanchuhov
  */
-public class IntBox {
+public class StringBox {
 
-    private final int value;
+    private final String value;
 
-    public IntBox(int value) {
+    public StringBox(String value) {
         this.value = value;
     }
 
-    public int get() {
+    public String get() {
         return value;
     }
 
     @Override
     public String toString() {
-        return "IntBox{" +
+        return "StringBox{" +
                 "value=" + value +
                 '}';
     }

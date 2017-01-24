@@ -1,4 +1,4 @@
-package com.bvan.oop.lesssons7_8.sorting.min;
+package com.bvan.oop.lessons7_8.sorting.min;
 
 import com.bvan.oop.common.Person;
 import java.util.Arrays;

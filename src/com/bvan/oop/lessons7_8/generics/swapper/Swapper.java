@@ -1,4 +1,4 @@
-package com.bvan.oop.lesssons7_8.generics.swapper;
+package com.bvan.oop.lessons7_8.generics.swapper;
 
 /**
  * @author bvanchuhov

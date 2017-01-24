@@ -1,4 +1,4 @@
-package com.bvan.oop.lesssons7_8.sorting;
+package com.bvan.oop.lessons7_8.sorting;
 
 /**
  * @author bvanchuhov

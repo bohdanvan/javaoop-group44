@@ -1,23 +1,23 @@
-package com.bvan.oop.lesssons7_8.generics.box.good;
+package com.bvan.oop.lessons7_8.generics.box.bad;
 
 /**
  * @author bvanchuhov
  */
-public class Box<T> {
+public class ObjectBox {
 
-    private final T value;
+    private final Object value;
 
-    public Box(T value) {
+    public ObjectBox(Object value) {
         this.value = value;
     }
 
-    public T get() {
+    public Object get() {
         return value;
     }
 
     @Override
     public String toString() {
-        return "Box{" +
+        return "ObjectBox{" +
                 "value=" + value +
                 '}';
     }

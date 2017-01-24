@@ -1,4 +1,4 @@
-package com.bvan.oop.lesssons7_8.generics;
+package com.bvan.oop.lessons7_8.generics;
 
 import java.util.ArrayList;
 import java.util.List;

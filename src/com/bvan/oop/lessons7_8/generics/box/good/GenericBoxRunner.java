@@ -1,6 +1,6 @@
-package com.bvan.oop.lesssons7_8.generics.box.good;
+package com.bvan.oop.lessons7_8.generics.box.good;
 
-import com.bvan.oop.lesssons7_8.generics.box.Cat;
+import com.bvan.oop.lessons7_8.generics.box.Cat;
 
 /**
  * @author bvanchuhov

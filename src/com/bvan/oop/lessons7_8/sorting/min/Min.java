@@ -1,4 +1,4 @@
-package com.bvan.oop.lesssons7_8.sorting.min;
+package com.bvan.oop.lessons7_8.sorting.min;
 
 import java.util.Comparator;
 import java.util.List;

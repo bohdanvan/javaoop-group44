@@ -1,4 +1,4 @@
-package com.bvan.oop.lesssons7_8.generics.swapper;
+package com.bvan.oop.lessons7_8.generics.swapper;
 
 import com.bvan.oop.common.Person;
 import java.util.Arrays;

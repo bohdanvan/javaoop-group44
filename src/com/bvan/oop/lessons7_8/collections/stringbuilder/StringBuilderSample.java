@@ -1,4 +1,4 @@
-package com.bvan.oop.lesssons7_8.collections.stringbuilder;
+package com.bvan.oop.lessons7_8.collections.stringbuilder;
 
 /**
  * @author bvanchuhov

@@ -1,7 +1,7 @@
-package com.bvan.oop.lesssons7_8.generics.box.bad;
+package com.bvan.oop.lessons7_8.generics.box.bad;
 
-import com.bvan.oop.lesssons7_8.generics.box.Cat;
-import com.bvan.oop.lesssons7_8.generics.box.Dog;
+import com.bvan.oop.lessons7_8.generics.box.Cat;
+import com.bvan.oop.lessons7_8.generics.box.Dog;
 
 /**
  * @author bvanchuhov

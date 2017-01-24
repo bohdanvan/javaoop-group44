@@ -1,4 +1,4 @@
-package com.bvan.oop.lesssons7_8.generics.box;
+package com.bvan.oop.lessons7_8.generics.box;
 
 /**
  * @author bvanchuhov
