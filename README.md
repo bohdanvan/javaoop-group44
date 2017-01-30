@@ -11,6 +11,8 @@ Prog.kiev.ua. Java OOP. Группа 44
 
 [Java OOP. Богдан. Группа 44. Лекции 7-8 (21.01.2017)](https://prog.kiev.ua/forum/index.php/topic,2724.0.html)
 
+[Java OOP. Богдан. Группа 44. Лекции 9-10 (28.01.2017)](https://prog.kiev.ua/forum/index.php/topic,2740.0.html)
+
 ## Примеры решения задач
 
 https://github.com/bohdanvan/javaoop
