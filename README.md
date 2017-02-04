@@ -15,7 +15,7 @@ Prog.kiev.ua. Java OOP. Группа 44
 
 [Java OOP. Богдан. Группа 44. Лекции 11-12 (04.02.2017)](https://prog.kiev.ua/forum/index.php/topic,2747.0.html)
 
-## Видео/аудио лекций
+## Видео/аудио лекций другой группы
 
 [Видеозапись лекций](https://mega.nz/#F!fI9ACBqB!D7bquUJHq-oDWGYR073xIA)
 
